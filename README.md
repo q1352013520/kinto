@@ -60,7 +60,7 @@ Heroku上部署v2ray，可更改传输协议vmess和vless，默认是vmess传输
       "settings": {
         "vnext": [
           {
-            "address": "appname.herokuapp.com",  //域名
+            "address": "xxx.herokuapp.com",  //域名
             "port": 443,
             "users": [
               {
@@ -77,7 +77,7 @@ Heroku上部署v2ray，可更改传输协议vmess和vless，默认是vmess传输
       }
     }
   ]
-}
+},
 ```
 
 本地Clash客户端config.yaml文件配置：
