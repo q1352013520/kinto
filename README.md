@@ -76,8 +76,8 @@ Heroku上部署v2ray，可更改传输协议vmess和vless，默认是vmess传输
         "wsSettings": {}
       }
     }
-  ]
-},
+  ],
+}
 ```
 
 本地Clash客户端config.yaml文件配置：
